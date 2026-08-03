@@ -1,30 +1,22 @@
-# User Data Deletion Instructions
+---
+title: Data Deletion Instructions
+permalink: /data-deletion/
+---
 
-**Last updated:** March 27, 2026
+# Data Deletion Instructions
 
-## How to Request Data Deletion
+**To request deletion of your data, email
+[contacto@iamautom.com](mailto:contacto@iamautom.com)** with the subject
+*"Data deletion request"*. We identify every record associated with you, delete it,
+and confirm by email within **30 days**.
 
-If you wish to have your data deleted from our application, you can request it by contacting us directly:
+Include whichever identifier applies:
 
-**Email:** contacto@iamautom.com
+| If you… | Include | Detailed instructions |
+|---|---|---|
+| Messaged a car dealership that uses **AutomLead** | Your WhatsApp number | [AutomLead → Data Deletion](/meta-app-policies/automlead/privacy-policy/#data-deletion) |
+| Commented on or messaged **@tincho.olivero** or the **IamAutom** Facebook Page | Your Instagram or Facebook username | [Tincho_I_G → Data Deletion](/meta-app-policies/tincho-ig/privacy-policy/#data-deletion) |
 
-## What Happens When You Request Deletion
-
-Upon receiving a deletion request, we will:
-
-1. **Identify** all data associated with your account within our App
-2. **Delete** all such data, including any cached API responses, access tokens, and analytics data
-3. **Confirm** the deletion via email within 30 days of receiving the request
-
-## Automatic Data Handling
-
-- Access tokens are revoked upon disconnection from the App
-- No personal data is retained after the App is disconnected from your Meta account
-- Cached data is automatically purged when no longer needed for active operations
-
-## Contact
-
-For data deletion requests or questions, please contact:
-
-**Martín Olivero**
-Email: contacto@iamautom.com
+You may also revoke an app's access at any time from your Meta account settings.
+Data held by Meta itself is deleted through
+[Meta's own tools](https://www.facebook.com/privacy/policy/).

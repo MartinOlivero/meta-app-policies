@@ -1,41 +1,20 @@
-# Privacy Policy
+---
+title: Privacy Policies
+permalink: /privacy-policy/
+---
 
-**Last updated:** March 27, 2026
+# Privacy Policies
 
-## Introduction
+Each application operated by iamautom has its own privacy policy, because each one
+processes different data:
 
-This application ("App") is a personal integration tool created by Martín Olivero to connect Meta Ads data with development and automation tools. This privacy policy explains how we handle any data accessed through this App.
+- **AutomLead** — lead management for car dealerships over WhatsApp →
+  [Privacy Policy](/meta-app-policies/automlead/privacy-policy/)
+- **Tincho_I_G** — publishing and engagement on the operator's own Instagram and
+  Facebook accounts →
+  [Privacy Policy](/meta-app-policies/tincho-ig/privacy-policy/)
 
-## Data Collection and Use
+**Contact:** [contacto@iamautom.com](mailto:contacto@iamautom.com)
 
-This App accesses Meta Ads data solely for the purpose of managing and analyzing advertising campaigns. The data accessed includes:
-
-- Ad campaign performance metrics
-- Ad account information
-- Campaign, ad set, and ad configurations
-
-All data is used exclusively by the App owner for personal advertising management purposes. **No data is shared with, sold to, or disclosed to any third parties.**
-
-## Data Storage
-
-Data retrieved through this App is processed locally and is not stored on external servers beyond what is necessary for the App's functionality.
-
-## Data Security
-
-We implement reasonable security measures to protect any data accessed through this App, including secure API connections and access token management.
-
-## Third-Party Services
-
-This App integrates with:
-- **Meta (Facebook) Ads API** – subject to [Meta's Privacy Policy](https://www.facebook.com/privacy/policy/)
-
-## Changes to This Policy
-
-This privacy policy may be updated from time to time. Any changes will be reflected on this page with an updated revision date.
-
-## Contact
-
-For any questions regarding this privacy policy, please contact:
-
-**Martín Olivero**
-Email: contacto@iamautom.com
+*This page replaces the single generic policy published in March 2026, which described
+a Meta Ads integration that no longer reflects what these applications do.*
